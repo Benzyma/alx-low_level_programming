@@ -1,5 +1,9 @@
 #include<stdio.h>
 #include<string.h>
+/**
+ *main-to return to 0
+ *Return: 0
+ */
 int main(void)
 {
 char code[52];
