@@ -1,13 +1,15 @@
 #include<stdio.h>
+#include<stdlib.h>
 /**
  *main- if sttatement
  *
  *
  *Return: return 0
  */
+int n;
 int main(void)
 {
-int n;
+n = rand();
 if ( n > 0 )
 {
 printf(" %d is positve\n", n);
