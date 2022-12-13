@@ -1,0 +1,14 @@
+#include<stdio.h>
+/**
+ *ch-a program that will print _putchar
+ *
+ *
+ *Return: return 0
+ */
+char ch(void)
+{
+char ch;
+ch = _putchar;
+putchar(ch);
+return (0);
+}
