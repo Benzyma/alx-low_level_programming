@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 /**
  *main- alphabets
@@ -10,7 +11,7 @@ int main(void)
 char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
 {
-putchar(ch\n);
+putchar("%c\n", ch);
 }
 return (0);
 }
