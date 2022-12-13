@@ -1,6 +1,6 @@
-char _putchar(char x)
+int _putchar(char x)
 {
-return("_putchar\n");
+return ("_putchar\n");
 }
 
 
