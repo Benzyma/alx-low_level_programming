@@ -1,9 +1,4 @@
-int _putchar(char x)
-{
-x = _putchar;
-printf("%c\n", x);
-return (0);
-}
-
-
-
+#ifndef main
+int _putchar(char c);
+#define main
+#endif

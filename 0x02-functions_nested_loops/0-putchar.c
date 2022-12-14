@@ -1,13 +1,21 @@
 #include<stdio.h>
 #include"main.h"
 /**
- *main- a program to write _putchar
- *description: this program will prrint _putchar
- *
- *Return: return 0
- */
+*main-prorgam to print _putchar
+*
+*
+*Return:return 0
+*/
 int main(void)
 {
-int _putchar(char x);
-return (0);
+   _putchar ('_');
+   _putchar ('p');
+   _putchar ('u');
+   _putchar ('t');
+   _putchar ('c');
+   _putchar ('h');
+   _putchar ('a');
+   _putchar ('r');
+   _putchar ('\n');
+return (0)
 }
